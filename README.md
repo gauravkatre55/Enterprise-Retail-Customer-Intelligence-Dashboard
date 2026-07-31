@@ -38,6 +38,12 @@ The dashboard enables management to make informed, data-driven decisions through
 
 # 📂 Project Workflow
 
+## 📂 Dataset
+
+This project uses the **Complete Journey Retail Dataset** published by **dunnhumby**. The dataset contains anonymized retail transaction data, customer demographics, product details, marketing campaigns, coupon redemption records, and promotional information, making it ideal for end-to-end retail analytics and business intelligence projects.
+
+**Source:** https://www.dunnhumby.com/source-files/
+
 ### 1️⃣ Data Collection
 Imported multiple retail datasets into MySQL and Power BI.
 
